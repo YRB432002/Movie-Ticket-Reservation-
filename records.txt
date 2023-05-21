@@ -1,0 +1,10 @@
+_______Movie Ticket Booking________
+_____________Ticket________________
+___________________________________
+Customer ID: 6754
+Customer Name: Yash
+Customer Gender: m
+	Description 
+
+Cinema		Cinepolis
+Ticket cost: 		350
